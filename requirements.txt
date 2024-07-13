@@ -1,2 +1,4 @@
 opencv-python-headless
 ultralytics
+freeglut3-dev
+libgtk2.0-dev
